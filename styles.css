@@ -1,0 +1,36 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    background-color: #d5e1ef;
+}
+
+h3{
+    font-size: medium;
+    margin: 15px;
+}
+h1{
+    font-size: medium;
+}
+
+p{
+    font-size: small;
+    margin: auto 15px 15px 15px;
+}
+
+.qr-back{
+    background-color: white;
+    width: 15.625rem;
+    height: 22rem;
+    margin: 16% auto 1% auto;
+    padding-top: 20px;
+    border-radius: 8px;
+}
+
+.qr{
+    height: auto;
+    width: 200px;
+}
+
+.copyright{
+    font-family: 'Outfit', sans-serif;
+}
